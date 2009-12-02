@@ -6,7 +6,11 @@
   <link rel="shortcut icon" href="favicon.ico" />
  </head>
  <body>
-  <!-- Important to ensure that javascript does not get executed out of order -->
+  </body>
+</html>
+<!-- load javascript libraries late : optimization : may be extra -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
+ <!-- Important to ensure that javascript does not get executed out of order -->
  <script type="text/javascript">
 //<![CDATA[
 /* This is marked CDATA - it is not parsed by the x(ht)ml parser
@@ -19,8 +23,4 @@
 /* CDATA line end cannot contain spaces or line breaks */
 //]]>
 </script>
- </body>
-</html>
-<!-- load javascript libraries late -->
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
 
