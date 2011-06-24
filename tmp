@@ -1,0 +1,311 @@
+<html>
+<head>
+<style type="text/css">
+
+body {
+width:860px;
+    list-style-type:none;
+ 	color:#A3A3A3;
+	font-size:1em;
+	background: #333333 url(file:///Volumes/O_o/Users/tsutzuku/Development/web.png) no-repeat;
+}
+
+.abs {
+	position:absolute;	
+}
+
+.right {
+	right:0px;
+}
+
+.top {
+	top:200px;
+}
+
+
+.title {
+	font-family:'Courier New';
+	font-size: 69em;
+margin-left:110px;
+}
+.onegreen {
+	background-color:transparent;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiNM+xBAgwAAG+AN7qGJ2VAAAAAElFTkSuQmCC);
+}
+
+#content {
+	width:80%;
+position:absolute;
+top:300px;
+left:10px;
+
+margin-left:110px;
+}
+
+
+/* green */
+.dim_box {
+	opacity: 0.9;
+	-moz-opacity: 0.9;
+	filter:alpha(opacity=90);
+}
+#content .description {
+position:relative;
+float:right;
+
+top: -290px;
+border: 3px solid #F1F1F1;
+	color:A3A3A3;
+	
+}
+
+
+#content .post .labels {
+	font-size:1.2em;
+	
+	border: 3px solid #F1F1F1;
+	color:A3A3A3;
+	float:right;
+	position:relative;
+	left:-150px;
+	padding:1em;
+	padding-top:2em;
+	top:80px;
+	margin-bottom:4em;
+	
+	
+}
+#content .post > * {
+	clear:both;
+}
+#content .post .regular {
+	overflow:hidden;
+	zoom:1
+	border: 3px solid #F1F1F1;
+	position:relative;
+	font-size:0.8em;
+	margin:0.2em;
+	opacity: 0.8;
+	-moz-opacity: 0.8;
+	filter:alpha(opacity=80);
+}
+
+
+#content .regular .body {
+	margin-bottom: .2em;
+	line-height: 1.5em;
+	word-wrap: break-word;
+	word-break: loose;
+	color:#D2D2D2;
+	margin-left: .7em;
+}
+#content .date * {
+	font-family: 'Helvetica Neue', 'Helvetica', 'Arial';
+	font-style: italic;
+	color: #a97a00;
+	font-size:0.70em;
+	
+}
+
+#content .regular h2 a{
+	margin-left: .5em;
+	text-shadow: 0px 0px #d2d2d2;
+	color: #ff8500;
+}
+
+#write_form {
+position:relative;
+  top:100px;
+  left:200px;
+  z-index:200;
+}
+#random {
+ width:100px;
+}
+
+#random .regular .body {
+	margin-bottom: 1.2em;
+	line-height: 1.5em;
+	word-wrap: break-word;
+	word-break: loose;
+	color:#D2D2D2;
+	margin-left: .7em;
+}
+#random .date  * {
+	font-family: 'Helvetica Neue', 'Helvetica', 'Arial';
+	font-style: italic;
+	color: #a97a00;
+	font-size:0.70em;
+	
+}
+
+#random .regular h2 a{
+        display:none;
+}
+</style>
+</head>
+<style>
+
+</style>
+<body>
+<a style="left: 207px ! important; top: 0px ! important;" title="Click here to block this object with Adblock Plus" class="abp-objtab-03578121125206999 visible ontop" href="http://www.tumblr.com/swf/audio_player.swf?audio_file=http://www.tumblr.com/audio_file/30139541/3srSblcCC752pmsjqy8vKboQ&amp;color=FFFFFF"></a><embed type="application/x-shockwave-flash" src="http://www.tumblr.com/swf/audio_player.swf?audio_file=http://www.tumblr.com/audio_file/30139541/3srSblcCC752pmsjqy8vKboQ&amp;color=FFFFFF" quality="best" height="27" width="207">
+<div id='write_form'>
+	<form name'write_form' method='post' action='http://www.tumblr.com/api/write'>
+<input type='hidden' name='type' value="regular""/>
+<input type='hidden' name='title' value="A Random Passer By Said :"/>
+<input type='hidden' name='password' value="we are our own freedom."/>
+<input type='hidden' name='email' value="random_passer_by@robotarmyma.de"/>
+<input type='text' name='body' value='I have something to say.'/>
+<input type='submit' value='Add your two cents'/>
+</form>
+		</div>
+<h4 class='randomtitle'>A Random Passer Said</h4>
+<div id='random'>	
+</div>
+<span class='change title abs right top'>Robot Army Made</span>
+<span class='background title abs right top'>Robot Army Made</span>
+<div class="audio">
+                            <script src="/javascript/tumblelog.js" language="javascript" type="text/javascript"/><span id="audio_player_28519709">
+                            <div class="audio_player"><embed width="207" height="27" quality="best" src="http://robotarmyma.tumblr.com/swf/audio_player.swf?audio_file=http://robotarmymade.tumblr.com/audio_file/28519709/AYbMHcyYn6fkj7ocT2X3Umq3&color=E4E4E4" type="application/x-shockwave-flash"/></div></span><script type="text/javascript">replaceIfFlash9("audio_player_28519709",'<div class="audio_player"><embed type="application/x-shockwave-flash" src="http://robotarmyma.tumblr.com/swf/audio_player.swf?audio_file=http://robotarmyma.tumblr.com/audio_file/28519709/AYbMHcyYn6fkj7ocT2X3Umq3&color=E4E4E4" height="27" width="207" quality="best"></embed></div>')</script>
+                            
+                        </div>
+<div id="content">
+	         <div class="description  dim_box onegreen">
+                <div>
+                    {Description}
+                    
+                    <p class="nav_container">
+                        <a href="/archive" id="archive_link">Archive</a>
+                        <span class="dim">/</span>
+                        <a href="{RSS}">RSS</a>
+                    </p>
+                </div>
+            </div>
+           
+<div class='loaded'>
+</div>
+
+</div>
+        <!--
+            <div id="footer onegreen dim_box">
+                {block:PreviousPage}
+                    <a href="{PreviousPage}">&#171; Previous</a> &nbsp;&nbsp;
+                {/block:PreviousPage}
+                
+                {block:NextPage}
+                    <a href="{NextPage}">Next &#187;</a>
+                {/block:NextPage}
+            </div>
+          --->
+</body>
+<script src='http://code.jquery.com/jquery-latest.pack.js'></script>
+<script>
+
+ // post 
+  var load_selector = function(selector,data)
+  {
+  	var html = "<div class='post'>";
+  	for (var i=0; i < data['posts'].length; i++)  	
+	{
+	var post = data['posts'][i];
+	var type = post['type'];
+	var date = post['date'];
+	var title = post[type+"-title"];
+	var body =post[type+"-body"];
+	var url = post['url'];
+	
+	html += "<div class='zoomable labels dim_box onegreen'>"+
+          	 "<div class='date'><a href='"+url+"'>"+date+"</a></div>"+
+            "</div>"+
+			 "<div class='zoomable "+type+" dim_box onegreen'>"+
+			 "<h2><a href='"+url+"'>"+ title +"</a></h2>"+
+             "<div class='body'> " + body +" </div>"+
+             "</div>";
+    }
+  	html += "  </div>";
+  
+	$(selector).html(html);
+
+   }
+  var load_random = function(data) {
+	load_selector('#random',data);
+	};
+  var load_posts = function(data) {
+	load_selector('#content .loaded',data);
+    };
+  scaleTextEm = function(size) {
+  //  return this.each(function() { 
+//	$(this);
+	var to_size = size;
+	var from_size = 69;	
+	var end_size = 8;
+	var start_size = 0;		
+	if (from_size >= to_size)	{
+		end = from_size ;
+		start = to_size;
+	}	else {
+		 end = to_size	;		
+		 start = from_size;
+	}
+		var current = start;
+		var step_size = 10;
+		var b;
+		b = function() {
+				current +=	step_size;
+				$('.change').css({'font-size' : end-current+start+'em'});			
+				
+				if(current != end)
+				{					
+					/* over 1 billion people suffer from lack of clean water */
+					// call b every 10 units
+					setTimeout(b,10)
+				}
+			};
+		b();
+//	});
+  }
+	//JQuery
+	$.fn.extend({
+	});
+
+	$(document).ready(function(){
+	   scaleTextEm(8);
+	
+	});
+</script>
+
+<script type="text/javascript" src="http://robotarmyma.tumblr.com/api/read/json?&callback=load_posts&type=audio"></script>
+
+<script type="text/javascript" src="http://robotarmyma.tumblr.com/api/read/json?&callback=load_posts&type=regular"></script>
+
+ <script type="text/javascript" src="http://random-passer-by-robot-army-made.tumblr.com/api/read/json?&num=10&callback=load_random&type=regular"></script>
+<!-- 
+script type="text/javascript">replaceIfFlash9("audio_player_28432574",'<div class="audio_player"><embed type="application/x-shockwave-flash" src="http://robotarmymade.tumblr.com/swf/audio_player.swf?audio_file=http://robotarmymade.tumblr.com/audio_file/28432574/AYbMHcyYn6eb1vq3gUmOOmgF&color=E4E4E4" height="27" width="207" quality="best"></embed></div>')</script>
+-->
+<script>
+
+word = 'hello';;
+secret = 'jello';;
+wordsecretword = '';;
+hash = "993592628245578014fb2f8559491fecc586ddc6e74913c56268b588b6e32206";;
+for (var i = 0; i < hash.length ;i++)
+{
+	if (word[i].chr + hash[i])
+	{
+		console.log(word[i].chr + hash[i]);
+	}
+};;
+
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6304392-5");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</html>
+
+
